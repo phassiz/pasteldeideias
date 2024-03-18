@@ -7,7 +7,7 @@
  - images / imagens variadas
  - css / style.js
  - scripts / script.js
- - 
+
 3 - Após conferido a existencia dos arquivos e as posições mencionadas, clique com o botão direito do mouse sob o arquivo index.html e em seguida em "abrir com".
    
 4 - Assim que selecionado a opção abrir com, uma janela se abrirá solicitando que você selecione o aplicativo de sua preferência para executar a aplicação.
